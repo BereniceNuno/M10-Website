@@ -1,4 +1,4 @@
-cd path/to/your/unzipped/project
+cd /Users/berenicenuno/Downloads/project
 git init
 git remote add origin https://github.com/yourusername/my-website.git
 git add .
