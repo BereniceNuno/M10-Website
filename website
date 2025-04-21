@@ -1,4 +1,4 @@
-cd /Users/berenicenuno/Downloads/project
+cd /Users/berenicenuno/Downloads/project/Berenice Nuno Websit
 git init
 git remote add origin https://github.com/yourusername/my-website.git
 git add .
