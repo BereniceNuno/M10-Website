@@ -1,0 +1,30 @@
+---
+title: "Berenice Nuno Website"
+format: 
+  dashboard:
+    theme:
+      light: pulse 
+      dark: vapor
+---
+# Homepage 
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+ggplot(mpg, aes(x = cty, y = hwy)) +
+  geom_point()
+```
+
+# Dashboard
+
+
+# Essay on Shiny Apps
+
+
+# Essay on Shiny Live
+
+
+
+
